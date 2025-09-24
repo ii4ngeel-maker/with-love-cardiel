@@ -3,7 +3,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
-  <title>Para Fernanda</title>
+  <title>Fernanda :3 </title>
   <style>
     body {
       background: linear-gradient(135deg, #fceabb, #f8b500);
